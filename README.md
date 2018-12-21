@@ -10,7 +10,7 @@ And last if you connect an external audio card like usb headphones for example w
 Preperation: 
 The app takes advantage of xerpi's UDCD USB Video Class plugin, so make sure you have it installed on your PSVita.
 Link for xerpi's plugin https://github.com/xerpi/vita_udcd_uvc. 
-1. Download The PSVitaDock: 
+1. Download The PSVitaDock: https://github.com/lazydevyo/PSVitaDock/releases
 2. Connect your PSVita to mic-in or audio-in input on your computer. For the app to recognize which audio input is from your PSVita go to your Sound Settings then recording find which is your Vita for example "Microphone Line-In Front" or "Audio Line-In Rear" double click and rename it by adding the suffix or prefix "PSVita" so it should be like "Audio Line-In Rear PSVita".
 Theres a big change your computer has Realtek audio interface so it doesn't matter if you connect it to mic input (Pink) or line-in input (Blue) just in case you connect it to the mic input make sure you pick the mic input to work as line in input from the Realtek panel beacuse mic input is to sensitive and the sound would be loud.
 3. Start the PSVitaDock and Enjoy!
