@@ -19,6 +19,6 @@ Shortcuts:
 Enter(Return key): Shows up "Options menu".
 ESC (Escape): Goes fullscreen or windowed.
 TAB: Changes quality from HQ To smooth or vice-versa.
-
+SPACE: Takes a screenshot.
 In case you have any problem i added a PDF file with all the errors and solutions.
 
