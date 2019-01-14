@@ -1,5 +1,5 @@
 # PSVitaDock
-A Streaming app which let's you plug and play your PSVita to your PC without hustle.
+A Streaming app which let's you plug and play your PSVita to your PC without hassle.
 
 
 Actual knowing issues: Theres a big change you gonna have audio latency and theres a small change you won't but most of the time theres an audio latency about 0.2 ms to 0.5ms, For now instead of using the in app sound you can mute the app and enabled from your windows audio panel the ability to hear your audio input through the speakers.
