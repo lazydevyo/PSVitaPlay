@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1253"?>
+<OpenCvCameraSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cameraNum>0</cameraNum>
+  <width>864</width>
+  <height>488</height>
+  <fps>60</fps>
+  <codec>MJPG</codec>
+  <hue>0</hue>
+  <saturation>50</saturation>
+  <brightness>64</brightness>
+  <contrast>0</contrast>
+  <exposure>-4</exposure>
+  <gain>0</gain>
+  <focus>0</focus>
+</OpenCvCameraSettings>
