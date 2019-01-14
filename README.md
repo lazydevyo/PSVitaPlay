@@ -25,7 +25,9 @@ In case you have any problem i added a PDF file with all the errors and solution
 # To build your own
 
 Download everything from the source.</br>
+
 Download the AvProCamera unity package http://www.renderheads.com/downloads/2018/UnityPlugin-AVProLiveCamera-Latest-Trial.unitypackage</br>
+
 Download the Post Processing Package https://assetstore.unity.com/packages/essentials/post-processing-stack-83912</br>
 
 Install the unity packages.</br>
