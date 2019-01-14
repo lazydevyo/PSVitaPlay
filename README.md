@@ -24,10 +24,14 @@ In case you have any problem i added a PDF file with all the errors and solution
 
 # To build your own
 
-Download everything from the source.
-Download the AvProCamera unity package http://www.renderheads.com/downloads/2018/UnityPlugin-AVProLiveCamera-Latest-Trial.unitypackage
-Download the Post Processing Package https://assetstore.unity.com/packages/essentials/post-processing-stack-83912
-Install the unity packages.
-The PSVitaDock.unity scene is for the PC version app.
-The VitaDock.unity scene is for the Vita app "Remote PC". (To build the vitadock.unity for the vita you need the official psp2sdk for unity) and a licence for it
+Download everything from the source.</br>
+Download the AvProCamera unity package http://www.renderheads.com/downloads/2018/UnityPlugin-AVProLiveCamera-Latest-Trial.unitypackage</br>
+Download the Post Processing Package https://assetstore.unity.com/packages/essentials/post-processing-stack-83912</br>
+
+Install the unity packages.</br>
+
+The PSVitaDock.unity scene is for the PC version app.</br>
+
+The VitaDock.unity scene is for the Vita app "Remote PC". (To build the vitadock.unity for the vita you need the official psp2sdk for unity) and a licence for it</br>
+
 Build each scene seperatly.
