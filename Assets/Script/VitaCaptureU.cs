@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -34,7 +34,7 @@ public static int reloadsettingsID=0;
 	public bool AudioSilent;
 
 	public string DeviceName;
-	public int QualityLevel=0;
+	public int QualityLevel=1;
 	public int FullScreen = 0;
 	public int AudioOutput=0; 
 	private int ResScreen_w;
@@ -195,10 +195,10 @@ public static int reloadsettingsID=0;
 	
 	public void ChangeQuality(int i){
 	
-		//2 high res;
-		//0 low fast
+		//3 high res;
+		//1 low fast
 		_liveCamera._modeSelection = AVProLiveCamera.SelectModeBy.Index;
-		_liveCamera._desiredModeIndex = i;
+		_liveCamera._desiredModeIndex = i+1;
 		_liveCamera.Begin();
 		SaveSettings();
 	}
