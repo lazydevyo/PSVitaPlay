@@ -2,9 +2,7 @@
 A Streaming app which let's you plug and play your PSVita to your PC without hassle.
 
 
-Actual knowing issues: Theres a big change you gonna have audio latency and theres a small change you won't but most of the time theres an audio latency about 0.2 ms to 0.5ms, For now instead of using the in app sound you can mute the app and enabled from your windows audio panel the ability to hear your audio input through the speakers.
-The plugin i used to stream the PSVita has a watermark as seen in the previous post video basicaly the green purple line.
-The fix for that is either finding a new plugin to embed in the app or either buying the plugin which is about 180 Euros :(.
+Actual knowing issues: Some times the audio gliches and it's in Mono channel if that bothers you instead of using the in app sound you can mute the app and enabled from your windows audio panel the ability to hear your audio input through the speakers.
 And last if you connect an external audio card like usb headphones for example while playing the app may freeze and crash.
 
 Preperation: 
