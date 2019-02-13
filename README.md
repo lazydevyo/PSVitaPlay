@@ -35,3 +35,7 @@ The PSVitaDock.unity scene is for the PC version app.</br>
 The VitaDock.unity scene is for the Vita app "Remote PC". (To build the vitadock.unity for the vita you need the official psp2sdk for unity) and a licence for it</br>
 
 Build each scene seperatly.
+
+# Donation
+
+Paypal: paypal.me/LazyOx199
