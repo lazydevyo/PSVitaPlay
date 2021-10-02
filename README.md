@@ -38,4 +38,4 @@ Build each scene seperatly.
 
 # Donation
 
-Paypal: http://paypal.me/LazyOx199
+Paypal: https://paypal.me/oganesof
